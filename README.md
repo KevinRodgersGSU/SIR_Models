@@ -1,2 +1,2 @@
-# SIR_Models
+# SIR Models
 Python-based SIR models
