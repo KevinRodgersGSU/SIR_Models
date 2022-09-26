@@ -15,4 +15,6 @@ This SIR model is a modified version of the first one which includes two groups 
 
 SIR Model 3 (SEIR Model)
 
+This SEIR model is the final iteration which includes a latency period, this introduces a transitional period between suspectible and infected. While in this period the Exposed(E) individuals are not contagious but have already been infected.
+
 ![download (3)](https://user-images.githubusercontent.com/77468658/191619970-205d5db8-c7c1-4dff-abc5-dafbbe9dc48e.png)
